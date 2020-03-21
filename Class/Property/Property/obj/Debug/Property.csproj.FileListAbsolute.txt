@@ -1,0 +1,6 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Property\Property\bin\Debug\Property.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Property\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Property\Property\bin\Debug\Property.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Property\Property\bin\Debug\Property.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Property\Property\obj\Debug\Property.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Property\Property\obj\Debug\Property.pdb

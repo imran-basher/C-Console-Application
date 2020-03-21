@@ -1,0 +1,12 @@
+E:\C# 2019\Book & Video practice\Arrays\Arrays\bin\Debug\Arrays.exe.config
+E:\C# 2019\Book & Video practice\Arrays\Arrays\bin\Debug\Arrays.exe
+E:\C# 2019\Book & Video practice\Arrays\Arrays\bin\Debug\Arrays.pdb
+E:\C# 2019\Book & Video practice\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+E:\C# 2019\Book & Video practice\Arrays\Arrays\obj\Debug\Arrays.exe
+E:\C# 2019\Book & Video practice\Arrays\Arrays\obj\Debug\Arrays.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Arrays\Arrays\bin\Debug\Arrays.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Arrays\Arrays\obj\Debug\Arrays.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Arrays\Arrays\obj\Debug\Arrays.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Arrays\Arrays\bin\Debug\Arrays.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Arrays\Arrays\bin\Debug\Arrays.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache

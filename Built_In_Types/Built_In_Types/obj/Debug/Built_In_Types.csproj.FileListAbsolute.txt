@@ -1,0 +1,15 @@
+E:\C# 2019\Video practice\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe.config
+E:\C# 2019\Video practice\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe
+E:\C# 2019\Video practice\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.pdb
+E:\C# 2019\Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.csprojResolveAssemblyReference.cache
+E:\C# 2019\Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.exe
+E:\C# 2019\Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.pdb
+E:\C# 2019\Book & Video practice\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe.config
+E:\C# 2019\Book & Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.exe
+E:\C# 2019\Book & Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.pdb
+E:\Study\CSharp (C#)\C# 2019\Book & Video practice\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book & Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.exe
+E:\Study\CSharp (C#)\C# 2019\Book & Video practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Built_In_Types\Built_In_Types\bin\Debug\Built_In_Types.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Built_In_Types\Built_In_Types\obj\Debug\Built_In_Types.pdb

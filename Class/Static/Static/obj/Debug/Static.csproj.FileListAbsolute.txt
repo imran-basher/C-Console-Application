@@ -1,0 +1,6 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Static\Static\bin\Debug\Static.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Static\Static\bin\Debug\Static.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Static\Static\bin\Debug\Static.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Static\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Static\Static\obj\Debug\Static.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Class\Static\Static\obj\Debug\Static.pdb

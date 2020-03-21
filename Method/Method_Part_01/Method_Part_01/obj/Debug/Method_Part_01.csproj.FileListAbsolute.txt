@@ -1,0 +1,6 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Method\Method_Part_01\Method_Part_01\bin\Debug\Method_Part_01.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Method\Method_Part_01\Method_Part_01\bin\Debug\Method_Part_01.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Method\Method_Part_01\Method_Part_01\bin\Debug\Method_Part_01.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Method\Method_Part_01\Method_Part_01\obj\Debug\Method_Part_01.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Method\Method_Part_01\Method_Part_01\obj\Debug\Method_Part_01.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Method\Method_Part_01\Method_Part_01\obj\Debug\Method_Part_01.pdb

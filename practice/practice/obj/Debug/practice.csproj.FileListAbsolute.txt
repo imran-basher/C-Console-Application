@@ -1,0 +1,15 @@
+E:\C# 2019\Video practice\practice\practice\bin\Debug\practice.exe.config
+E:\C# 2019\Video practice\practice\practice\bin\Debug\practice.exe
+E:\C# 2019\Video practice\practice\practice\bin\Debug\practice.pdb
+E:\C# 2019\Video practice\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+E:\C# 2019\Video practice\practice\practice\obj\Debug\practice.exe
+E:\C# 2019\Video practice\practice\practice\obj\Debug\practice.pdb
+E:\C# 2019\Book & Video practice\practice\practice\bin\Debug\practice.exe.config
+E:\C# 2019\Book & Video practice\practice\practice\obj\Debug\practice.exe
+E:\C# 2019\Book & Video practice\practice\practice\obj\Debug\practice.pdb
+E:\C# 2019\Book & Video practice\practice\practice\bin\Debug\practice.exe
+E:\C# 2019\Book & Video practice\practice\practice\bin\Debug\practice.pdb
+E:\C# 2019\Book & Video practice\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\practice\bin\Debug\practice.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\practice\obj\Debug\practice.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\practice\obj\Debug\practice.pdb

@@ -1,0 +1,6 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\nothing\nothing\bin\Debug\nothing.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\nothing\nothing\bin\Debug\nothing.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\nothing\nothing\bin\Debug\nothing.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\nothing\nothing\obj\Debug\nothing.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\nothing\nothing\obj\Debug\nothing.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\nothing\nothing\obj\Debug\nothing.pdb

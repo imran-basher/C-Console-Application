@@ -1,0 +1,6 @@
+E:\C# 2019\Video practice\ReadingAndWritingToAConsole\ReadingAndWritingToAConsole\bin\Debug\ReadingAndWritingToAConsole.exe.config
+E:\C# 2019\Video practice\ReadingAndWritingToAConsole\ReadingAndWritingToAConsole\bin\Debug\ReadingAndWritingToAConsole.exe
+E:\C# 2019\Video practice\ReadingAndWritingToAConsole\ReadingAndWritingToAConsole\bin\Debug\ReadingAndWritingToAConsole.pdb
+E:\C# 2019\Video practice\ReadingAndWritingToAConsole\ReadingAndWritingToAConsole\obj\Debug\ReadingAndWritingToAConsole.csprojResolveAssemblyReference.cache
+E:\C# 2019\Video practice\ReadingAndWritingToAConsole\ReadingAndWritingToAConsole\obj\Debug\ReadingAndWritingToAConsole.exe
+E:\C# 2019\Video practice\ReadingAndWritingToAConsole\ReadingAndWritingToAConsole\obj\Debug\ReadingAndWritingToAConsole.pdb

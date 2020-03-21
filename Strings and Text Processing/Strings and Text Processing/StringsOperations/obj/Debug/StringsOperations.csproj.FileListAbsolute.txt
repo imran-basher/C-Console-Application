@@ -1,0 +1,8 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\bin\Debug\StringsOperations.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\bin\Debug\StringsOperations.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\bin\Debug\StringsOperations.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\obj\Debug\StringsOperations.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\obj\Debug\StringsOperations.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\obj\Debug\StringsOperations.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\bin\Debug\StringsOperations.exe.CodeAnalysisLog.xml
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\StringsOperations\bin\Debug\StringsOperations.exe.lastcodeanalysissucceeded

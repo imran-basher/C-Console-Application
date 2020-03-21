@@ -1,0 +1,7 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\bin\Debug\Strings.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\bin\Debug\Strings.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\bin\Debug\Strings.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\obj\Debug\Strings.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\obj\Debug\Strings.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\bin\Debug\Strings.exe.CodeAnalysisLog.xml
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\Strings\bin\Debug\Strings.exe.lastcodeanalysissucceeded

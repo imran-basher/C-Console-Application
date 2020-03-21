@@ -1,0 +1,6 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\1009_SalaryWithBonus\1009_SalaryWithBonus\bin\Debug\1009_SalaryWithBonus.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\1009_SalaryWithBonus\1009_SalaryWithBonus\bin\Debug\1009_SalaryWithBonus.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\1009_SalaryWithBonus\1009_SalaryWithBonus\bin\Debug\1009_SalaryWithBonus.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\1009_SalaryWithBonus\1009_SalaryWithBonus\obj\Debug\1009_SalaryWithBonus.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\1009_SalaryWithBonus\1009_SalaryWithBonus\obj\Debug\1009_SalaryWithBonus.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\practice\1009_SalaryWithBonus\1009_SalaryWithBonus\obj\Debug\1009_SalaryWithBonus.pdb

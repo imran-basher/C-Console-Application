@@ -1,0 +1,6 @@
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\ManipulatingStrings\bin\Debug\ManipulatingStrings.exe.config
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\ManipulatingStrings\bin\Debug\ManipulatingStrings.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\ManipulatingStrings\bin\Debug\ManipulatingStrings.pdb
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\ManipulatingStrings\obj\Debug\ManipulatingStrings.csprojResolveAssemblyReference.cache
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\ManipulatingStrings\obj\Debug\ManipulatingStrings.exe
+E:\Study\CSharp (C#)\C# 2019\Book  Practice\Strings and Text Processing\Strings and Text Processing\ManipulatingStrings\obj\Debug\ManipulatingStrings.pdb
